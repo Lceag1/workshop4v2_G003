@@ -1,0 +1,3 @@
+# Caché de Python y Pytest
+__pycache__/
+.pytest_cache/
